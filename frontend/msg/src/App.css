@@ -1,0 +1,23 @@
+.headerstyle{
+  text-align: center;
+  background: rgb(238, 235, 241);
+  height: auto;
+}
+
+body{
+  background: rgb(207, 207, 207);
+}
+
+.heading {
+  text-align: center;
+  font-family: cursive;
+}
+
+.deleteMessagebtn {
+  text-align: right;
+  border: 50%;
+}
+
+body {
+  background-color: rgb(202, 211, 211);
+}
